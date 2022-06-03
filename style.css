@@ -1,0 +1,100 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-weight: 300;
+}
+.jacksmithname{
+    color: hotpink;
+    font-weight: 800;
+    font-size: 32px;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    height: 500px;
+    margin-top: 80px;
+    padding: 10px;
+    /* background-color: cyan; */
+}
+.intro{
+    display: inline-block;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(202, 113, 128),hotpink);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-weight: 800;
+}
+.half-width img{
+    height: 100%;
+    margin-left: 5%;
+    
+}
+.biography{
+    display: inline-block;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+#work{
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+    margin-top: 80px;
+}
+.latest-work img{
+    width: 22%;
+    margin-left: 8%;
+    display: inline-block;
+}
+.threeimage{
+    height: 500px;
+    margin-top: 100px;
+    
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.pics{
+    display: inline;
+    width: 100%;
+}
+#client-heading{
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 40px;
+    
+}
+.client-intro{
+    margin-top: 100px;
+    text-align: center;
+}
+#say{
+    text-align: center;
+    margin-top: 100px;
+}
+.phero{
+    margin-top: 80px;
+    background-color: hotpink;
+    height: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    border-radius: 5px;
+    padding: 50px;
+}
+footer{
+    margin-top: 200px;
+}
+.client-say{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
